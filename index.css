@@ -1,13 +1,14 @@
 h1 {
-      color: #05F9EC;
+      color: #0C26F6;
       text-align: center;
       }
       
 .gioi_thieu {
-        color: #9505F9;
+        color: #0067FF;
         text-align: center;
       }
 
 html {
-  background : #0A0D0C;
+  background : url("https://animewallz.com/wp-content/uploads/2022/03/Gawr-Gura-Laptop-Wallpaper.jpg");
+  background-repeat: no-repeat
 }
